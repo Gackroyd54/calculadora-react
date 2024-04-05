@@ -1,0 +1,35 @@
+h1{
+  text-align: center;
+}
+.mostrador{
+  display:flex;
+  width: 260px;
+  background-color: #444;
+  color:aliceblue;
+  
+  margin:auto;
+  border-color: rgb(2, 2, 26);
+  height:35px
+}
+.botao{
+  height:50px;
+  width:65px;
+  font-size: 25px;
+  cursor:pointer;
+  border:none;
+
+
+}
+.botoes{
+  width:260px;
+  text-align: center;
+  font-size: 25px;
+  cursor:pointer;
+  border:none;
+  color:white;
+  margin:auto;
+  
+}
+td{
+  padding: 0;
+}
